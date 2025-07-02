@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hello, I'm Biniam Abayneh
 
-# 👋 Hello, I'm Biniam Abayneh
+![image](https://github.com/user-attachments/assets/86cc474a-d7e2-4656-9cf9-abaff72c4555)
 
-🎓 3rd-Year Computer Science Student 
 
+
+
+🎓 3rd-Year Computer Science Student  
 🤖 Passionate about Data Science, Artificial Intelligence & Automation  
-🏆 Competitive Programmer 
-💻 Full Stack Web Developer 
-📈 FX Trading Enthusiast
+🏆 Competitive Programmer | 💻 Full Stack Web Developer | 📈 FX Trading Enthusiast
 
 
-## 🧠 About Me
+
+
+
+🧠 About Me
 
 I'm Biniam, a passionate and self-motivated tech enthusiast based in Ethiopia.  
 Currently studying Computer Science, I enjoy exploring the world of data, building smart systems, and developing user-friendly web apps.  
@@ -18,36 +21,66 @@ I believe in continuous learning and love challenging myself through coding, fin
 
 
 
-## 💼 What I Do
 
-🌐 Full Stack Web Development – Creating dynamic, responsive web apps using modern tools  
-🧠 Explore AI & Machine Learning to build intelligent systems  
-📊 Work on data analysis & visualization projects in Python  
-💹 Research and apply technical analysis in Forex trading  
-🧩 Solve programming challenges on LeetCode, Codeforces, HackerRank
+ 💼 What I Do
 
-
-
-## 🛠️ Technologies & Tools
-
-Languages: Python, JavaScript, C++, SQL, HTML, CSS  
-Frameworks: React.js, Node.js, Express.js, Flask  
-Libraries: Pandas, NumPy, Scikit-learn, TensorFlow  
-Tools: Git & GitHub, Jupyter Notebook, VS Code, MetaTrader, MongoDB, MySQL
+ 🌐 Full Stack Web Development – Creating dynamic, responsive web apps using modern tools  
+ 🧠 Explore AI & Machine Learning to build intelligent systems  
+ 📊 Work on data analysis & visualization projects in Python  
+ 💹 Research and apply technical analysis in Forex trading  
+ 🧩 Solve programming challenges on LeetCode, Codeforces, HackerRank
 
 
 
-## 🚀 Current Goals
-
-📘 Learn basic deep learning and model deployment  
-🧑‍💻 Build full-stack apps with real-world functionality  
-🏆 Compete more regularly in coding contests  
-💼 Work on AI tools for finance, trading, or automation  
-🌍 Collaborate with developers on open-source projects
 
 
+🛠️ Skills & Tools
 
-## 📫 Let's Connect!
+👨‍💻 Programming & Scripting
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQL"/>
+</p>
+
+⚙️ Frameworks & Libraries
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy"/>
+</p>
+
+ 🧰 Tools & Platforms
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Office_Logo_%282013–2019%29.svg" width="40" alt="Microsoft Office"/>
+</p>
+
+
+🚀 Current Goals
+
+ 📘 Learn advanced deep learning and model deployment  
+ 🧑‍💻 Build full-stack apps with real-world functionality  
+ 🏆 Compete more regularly in coding contests  
+ 💼 Work on AI tools for finance, trading, or automation  
+ 🌍 Collaborate with developers on open-source projects
+
+📫 Let's Connect!
+
  💬 Telegram:https://t.me/kiyaa_21
  🌐 LinkedIn https://linkedin.com/in/biniamabayneh 
  📧 Email: biniamabayneh9@gmail.com   
