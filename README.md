@@ -1,6 +1,7 @@
 👋 Hello, I'm Biniam Abayneh
 
-![photo_2025-07-02_08-51-19](https://github.com/user-attachments/assets/db17be7e-3db4-49fb-bba1-9ed40e1b212b)
+<img src="![photo_2025-07-02_08-39-47](https://github.com/user-attachments/assets/c432c7ab-2a09-48bf-81ed-ea598913faa3)
+" alt="my image" width="50" height="50">
 
 
 
