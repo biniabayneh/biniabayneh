@@ -1,6 +1,7 @@
 👋 Hello, I'm Biniam Abayneh
 
-![photo_2025-07-02_08-39-47](https://github.com/user-attachments/assets/eacb9b42-8bb6-4d88-b885-69dde448c1b6)
+![photo_2025-07-02_08-51-19](https://github.com/user-attachments/assets/db17be7e-3db4-49fb-bba1-9ed40e1b212b)
+
 
 
 
@@ -25,11 +26,11 @@ I believe in continuous learning and love challenging myself through coding, fin
 
  💼 What I Do
 
- 🌐 Full Stack Web Development – Creating dynamic, responsive web apps using modern tools  
- 🧠 Explore AI & Machine Learning to build intelligent systems  
- 📊 Work on data analysis & visualization projects in Python  
- 💹 Research and apply technical analysis in Forex trading  
- 🧩 Solve programming challenges on LeetCode, Codeforces, HackerRank
+   🌐 Full Stack Web Development – Creating dynamic, responsive web apps using modern tools  
+   🧠 Explore AI & Machine Learning to build intelligent systems  
+   📊 Work on data analysis & visualization projects in Python  
+   💹 Research and apply technical analysis in Forex trading  
+   🧩 Solve programming challenges on LeetCode, Codeforces, HackerRank
 
 
 
@@ -40,12 +41,12 @@ I believe in continuous learning and love challenging myself through coding, fin
 👨‍💻 Programming & Scripting
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="70" alt="SQL"/>
 </p>
 
 ⚙️ Frameworks & Libraries
