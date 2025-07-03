@@ -1,30 +1,30 @@
-                                                            👋 Hello, I'm Biniam Abayneh
+                                              👋 Hello, I'm Biniam Abayneh
 
-<img src="photo_2025-07-02_08-39-47.jpg" alt="my image" width="200" height="" margin=" 300px">
-
-
-
-
-                                                                      I'M
-
-                                                           🎓 3rd-Year Computer Science Student  
-                                                           🤖 Passionate about Data Science, Artificial Intelligence & Automation  
-                                                           🏆 Competitive Programmer | 💻 Full Stack Web Developer | 📈 FX Trading Enthusiast
+                                                <img src="photo_2025-07-02_08-39-47.jpg" alt="my image" width="200" height="" margin=" 300px">
 
 
 
 
+                                                  I'M
 
-                          🧠 About Me
-
-                           [[ I'm Biniam, a passionate and self-motivated tech enthusiast based in Ethiopia.  
-                           Currently studying Computer Science, I enjoy exploring the world of data, building smart systems, and developing user-friendly web apps.  
-                           I believe in continuous learning and love challenging myself through coding, finance, and real-world problem solving. ]]
-
+                                        🎓 3rd-Year Computer Science Student  
+                                        🤖 Passionate about Data Science, Artificial Intelligence & Automation  
+                                        🏆 Competitive Programmer | 💻 Full Stack Web Developer | 📈 FX Trading Enthusiast
 
 
 
-             💼 What I Do
+
+
+                   🧠 About Me
+
+                   [[ I'm Biniam, a passionate and self-motivated tech enthusiast based in Ethiopia.  
+                    Currently studying Computer Science, I enjoy exploring the world of data, building smart systems, and developing user-friendly web apps.  
+                    I believe in continuous learning and love challenging myself through coding, finance, and real-world problem solving. ]]
+
+
+
+
+        💼 What I Do
 
          🌐 Full Stack Web Development – Creating dynamic, responsive web apps using modern tools  
          🧠 Explore AI & Machine Learning to build intelligent systems  
@@ -36,33 +36,33 @@
 
 
 
-🛠️ Skills & Tools
+     🛠️ Skills & Tools
 
-👨‍💻 Programming & Scripting
+    👨‍💻 Programming & Scripting
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="70" alt="SQL"/>
-</p>
+     <p align="left">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" alt="Python"/>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" alt="JavaScript"/>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70" alt="C++"/>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" alt="HTML"/>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" alt="CSS"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="70" alt="SQL"/>
+     </p>
 
-⚙️ Frameworks & Libraries
+    ⚙️ Frameworks & Libraries
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60" alt="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" alt="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" alt="NumPy"/>
-</p>
+       <p align="left">
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" alt="React"/>
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60" alt="Angular"/>
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" alt="Bootstrap"/>
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" alt="Node.js"/>
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" alt="Express"/>
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" alt="Flask"/>
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" alt="Pandas"/>
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" alt="NumPy"/>
+        </p>
 
- 🧰 Tools & Platforms
+      🧰 Tools & Platforms
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git"/>
