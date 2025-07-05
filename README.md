@@ -1,6 +1,7 @@
-   <span style="color: #4CAF50;">👋 Hello, I'm Biniam Abayneh</span>
+   <span style="color: #4CAF50; font-size:40px;">👋 Hello, I'm Biniam Abayneh</span>
 
-<img src="photo_2025-07-02_08-39-47.jpg" alt="my image" width="200" style="margin: 20px;">
+
+
 
  🌱 **I’m Currently Learning ...
 - 🎓 **3rd-Year Computer Science Student**  
