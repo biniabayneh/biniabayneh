@@ -1,9 +1,10 @@
-   <span style="color: #4CAF50; font-size:40px;">👋 Hello, I'm Biniam Abayneh</span>
+<span style="color: #4CAF50; font-size:40px;">👋 Hello, I'm Biniam Abayneh</span>
 
 
 
 
  🌱 **I’m Currently Learning ...
+ 
 - 🎓 **3rd-Year Computer Science Student**  
 - 🤖 **Passionate about Data Science, Artificial Intelligence & Automation**  
 - 🏆 **Competitive Programmer | 💻 Full Stack Web Developer | 📈 FX Trading Enthusiast**
